@@ -431,7 +431,7 @@
   "gameinfo.play": "Jouer",
 
   "gamesaverbinary.unable.to.save": "Impossible de sauvegarder, vérifier que vous avez suffisamment d'espace de stockage dans votre appareil.",
-  "gamesaverbinary.unable.to.save.title": "Impossible de sauvegarder \(°^°)/",
+  "gamesaverbinary.unable.to.save.title": "Impossible de sauvegarder",
   "gamesaverbinary.error.loading.moves": "Erreur lors du chargement",
 
   "polyplayer.task": "Objectifs",
